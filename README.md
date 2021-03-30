@@ -1,4 +1,6 @@
 # baiduyunvip
+百度共享账号，有效期大概7天左右吧
+
 微信公众号：
 
 ![image](https://github.com/jiabing-china/baiduyunvip/blob/main/weixin.png)
